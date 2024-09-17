@@ -1,0 +1,1 @@
+select * from Towns where Population > 1000

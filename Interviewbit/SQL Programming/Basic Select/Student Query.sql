@@ -1,0 +1,1 @@
+select name from STUDENT where class = 1 and SubjectCount > 3

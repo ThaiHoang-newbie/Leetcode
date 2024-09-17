@@ -1,0 +1,1 @@
+select * from STUDY where marks > 80

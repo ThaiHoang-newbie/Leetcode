@@ -1,0 +1,1 @@
+select avg(peopleSaved) from FIREFIGHTERS where CountryCode = 'PM'

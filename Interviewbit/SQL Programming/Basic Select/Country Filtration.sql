@@ -1,0 +1,1 @@
+select name from COUNTRY where code = 'NA'

@@ -1,0 +1,1 @@
+select name, class from STUDENTS where age > 15

@@ -1,0 +1,1 @@
+select count(*) as A from WORKERS where (select max(DailyWage * DaysWorked) from WORKERS ) = DailyWage * DaysWorked
