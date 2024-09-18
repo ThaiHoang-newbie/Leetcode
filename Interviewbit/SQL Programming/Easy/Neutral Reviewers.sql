@@ -1,0 +1,1 @@
+select DISTINCT r.reviewer_name from reviewers r join ratings ra on r.reviewer_id=ra.reviewer_id and ra.reviewer_stars IS NULL
